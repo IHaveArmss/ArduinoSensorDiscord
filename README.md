@@ -27,7 +27,13 @@ This project detects when an object is closer than a configurable threshold (def
   - `pyserial`
   - `requests`
 
+
+![image](https://github.com/user-attachments/assets/4cdcccb1-21ee-4c69-8326-209aa40d49e8)
+![image_2025-06-27_175336044-min](https://github.com/user-attachments/assets/fe73df8e-d597-4350-a1ed-89ccb84e36a3)
+
 Install dependencies:
 
 ```bash
 pip install pyserial requests
+
+
