@@ -1,0 +1,4 @@
+VCC - 5v
+Trig - 9
+Echo - 10
+Gnd - Gnd
