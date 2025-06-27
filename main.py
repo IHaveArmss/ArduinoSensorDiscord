@@ -6,7 +6,7 @@ import requests
 
 # config
 baud_rate = 9600
-webhook_url = "https://discord.com/api/webhooks/1388028588716068884/bA25_SwKiubqtfZEOxHCrvQeL12jOQwOgch01oV7waPGu44AZxDrJzrv_7kXAzd0RGKV" 
+webhook_url = "discordwebhookurl" 
 arduino = None
 last_sent_time = 0
 alert_interval = 10  # seconds between Discord alerts change if you want more often
